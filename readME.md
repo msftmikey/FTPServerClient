@@ -6,7 +6,7 @@ This project consists of an FTP server and FTP client. The client should connect
 
 ## Setting up the Connection 
 
-Place the client and server in two seperate directories. 
+Place the client and server in two separate directories. 
 
 ## Begin the Server Connection 
 
