@@ -8,8 +8,19 @@ This project consists of an FTP server and FTP client. The client should connect
 
 Place the client and server in two separate directories. 
 
-## Begin the Server Connection 
+Open two seperate terminals. 
 
+## Begin the Server Connection 
+Before beginning the server.py file, make sure to use the "cd" command to be in the correct respective directory in both terminals. 
+
+``` 
+cd server
+``` 
+OR 
+
+``` 
+cd client
+```
 Start the server.py file from the terminal with whatever port you wish to listen on. 
 
 ```
