@@ -1,6 +1,7 @@
 #  FTP Server and Client: Socket Programming
 
 by Joel Perez, Miguel Mancera, and Michael Duenas
+
 This project consists of an FTP server and FTP client. The client should connect to the server and be able to upload and download files to/from the server. 
 
 ## Setting up the Connection 
@@ -23,7 +24,7 @@ Start the client.py file from the terminal with the localhost IP address and the
 python3 client.py 127.0.0.1 8000
 ```
 
-#Running Commands 
+# Running Commands 
 
 On the client, run the indicated commands. 
 
