@@ -1,3 +1,6 @@
+//This code below is a multiplication table from a website to prove code works in this program. THIS IS NOT OUR CODE. 
+//Credit: https://www.guru99.com/practical-code-examples-using-javascript.html
+
 <html>
 <head>
   <title>Multiplication Table</title>
